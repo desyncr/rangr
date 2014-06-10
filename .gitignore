@@ -1,0 +1,5 @@
+history
+tagged
+bookmarks
+*.pyo
+__init__.py
